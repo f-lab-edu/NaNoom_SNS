@@ -6,3 +6,4 @@ SNS 서비스
 ## :key: 사용 기술 및 개발환경
 + Java,Spring Boot,My Batis,My SQL,IntelliJ,Docker
 ## :key: Application UI
+[Apllication UI 세부](https://github.com/f-lab-edu/NaNoom_SNS/wiki/Application-UI) </br>
