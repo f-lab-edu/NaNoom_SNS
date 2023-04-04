@@ -8,4 +8,5 @@ SNS 서비스
 ## :key: Application UI
 [Apllication UI 세부](https://github.com/f-lab-edu/NaNoom_SNS/wiki/Application-UI) </br>
 ## :key: 주요기능
-[각 기능별 Use Case](https://github.com/f-lab-edu/NaNoom_SNS/wiki/Use-Case)
+[각 기능별 Use Case](https://github.com/f-lab-edu/NaNoom_SNS/wiki/Use-Case) </br>
+[각 기능별 Business Logic](https://github.com/f-lab-edu/NaNoom_SNS/wiki/Business-Rule)
